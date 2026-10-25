@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+chromadb
+pymupdf
+python-docx
+langchain-text-splitters
+kokoro
+soundfile
+numpy
+requests

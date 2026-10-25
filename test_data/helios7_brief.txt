@@ -1,0 +1,27 @@
+Helios-7 Aerial Imaging Drone — Internal Product Brief
+
+OVERVIEW
+The Helios-7 is Skylark Robotics' fourth-generation consumer aerial imaging drone, codenamed "Lumen" during development. It launched on March 14, 2024 at a list price of $2,499. Helios-7 weighs 1,142 grams without the battery and 1,387 grams in flight configuration. It supersedes the Helios-6 line, which was discontinued on November 30, 2023.
+
+HARDWARE
+The flight controller uses a custom Skylark SR-22 system-on-chip with a 4-core ARM Cortex-A78 cluster running at 2.4 GHz. The primary camera is a 1-inch Sony IMX989 stacked CMOS sensor capable of 8K30 and 4K120 capture. A secondary 48 megapixel telephoto lens provides 5x optical zoom. The gimbal is a 3-axis mechanical stabilizer with a vibration tolerance of plus or minus 0.005 degrees.
+
+BATTERY AND FLIGHT
+The battery is a 6,200 mAh smart LiPo pack rated at 89 Wh, and it is swappable in flight configuration. Nominal flight time is 47 minutes. In high-wind mode, which engages at Beaufort 6 or above, flight time drops to 31 minutes. Maximum ascent rate is 8 meters per second; descent rate is 6 meters per second. Top horizontal speed is 24 meters per second in Sport mode and 19 meters per second in Cinematic mode.
+
+CONNECTIVITY
+Helios-7 uses Skylark's proprietary AirLink 4 radio operating in dual 2.4 GHz and 5.8 GHz bands. Maximum unobstructed transmission range is 12 kilometers under FCC regulations and 8 kilometers under CE regulations. The live feed is 1080p at 60 frames per second with sub-90 millisecond latency.
+
+SAFETY
+The aircraft includes an ADS-B In receiver for manned-aircraft awareness. Obstacle avoidance covers 6 directions and is effective up to 30 meters. Return-to-home is triggered automatically when the remaining battery reaches 18 percent. Geofencing supports up to 256 user-defined no-fly zones.
+
+PRICING AND SKUS
+- Standard Kit: $2,499 — one battery, controller, and charger.
+- Fly More Combo: $3,299 — three batteries, charging hub, and ND filter set.
+- Cinema Edition: $4,799 — adds an external monitor, 5G video relay, and a professional license.
+
+SUPPORT AND WARRANTY
+The standard warranty is 12 months. Skylark Care Plus extends coverage to 24 months and adds two no-fault crash replacements per year. Repairs are handled through six regional service centers, located in Austin, Dortmund, Singapore, Sydney, Sao Paulo, and Toronto.
+
+COMPATIBILITY
+Helios-7 is compatible with Skylark's Pilot app on iOS 16 or later and Android 13 or later. Desktop integration is available through Skylark Studio on macOS 13 or later and Windows 11. Helios-6 accessories — including batteries, propellers, and ND filters — are not cross-compatible due to a redesigned mount system.

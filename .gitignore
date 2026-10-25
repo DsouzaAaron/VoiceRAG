@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Data (auto-created, local)
+chroma_db/
+uploads/
+
+# Models cache (if downloaded locally)
+*.bin
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# OS
+.DS_Store
+backend/chats.db
